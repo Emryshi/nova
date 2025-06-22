@@ -13,6 +13,7 @@ NovaLang, modern, öğrenilebilir ve genişletilebilir bir programlama dilidir. 
 - **Fonksiyonel programlama:** lambda, fonksiyonları değişkene atama
 - **Performans:** Bytecode/VM altyapısı, hızlı environment
 - REPL ve dosya çalıştırıcı
+- Not: Bu Yazılım dili tamamen yapay zeka ile hazırlanmıştır desteklerinizi bekliyorum
 
 ## Standart Kütüphane
 - `math`: square, cube, abs
