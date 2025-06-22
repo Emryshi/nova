@@ -1,6 +1,0 @@
-// example.nova
-let x = 10;
-func square(n) {
-    return n * n;
-}
-print(square(x)); 
