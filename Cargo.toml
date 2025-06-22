@@ -1,0 +1,9 @@
+[package]
+name = "nova"
+version = "0.1.0"
+edition = "2021"
+
+authors = ["NovaLang Team"]
+description = "NovaLang: Modern, öğrenilebilir, genişletilebilir bir programlama dili."
+
+[dependencies] 

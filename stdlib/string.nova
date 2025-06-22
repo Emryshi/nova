@@ -1,0 +1,4 @@
+ // string.nova
+export func upper(s) { return toUpper(s); }
+export func lower(s) { return toLower(s); }
+export func length(s) { return len(s); }

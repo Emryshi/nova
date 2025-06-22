@@ -1,0 +1,4 @@
+// math.nova
+export func square(x) { return x * x; }
+export func cube(x) { return x * x * x; }
+export func abs(x) { if x < 0 { return -x; } else { return x; } } 

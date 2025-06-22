@@ -1,0 +1,3 @@
+// file.nova
+export func read(path) { return readFile(path); }
+export func write(path, content) { return writeFile(path, content); } 

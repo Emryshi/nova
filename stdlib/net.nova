@@ -1,0 +1,2 @@
+// net.nova
+export func get(url) { return httpGet(url); } 
